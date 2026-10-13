@@ -9,6 +9,6 @@ https://overthewire.org
 - [chemistry](HackTheBox/Machine_chemistry.md) (linux)
 ## CTFs
 ### HackTheBoo2025
-- [rusted_oracacle](HackTheBox/HackTheBoo25_rusted_oracle_writeup.md) (reverse engineering)
+- [rusted_oracle](HackTheBox/HackTheBoo25_rusted_oracle_writeup.md) (reverse engineering)
 - [watchtower_of_mists](HackTheBox/HackTheBoo25_watchtower_of_mists.md) (reverse engineering)
 - [the_wax_circle_reclaimed](HackTheBox/HackTheBoo25_the_wax_circle_reclaimed_writeup.md) (web)
